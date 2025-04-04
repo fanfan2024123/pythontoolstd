@@ -1,2 +1,3 @@
 # pythontoolstd
 这是一个通过制作小工具来学习python项目
+dict文件夹中是已经打包为exe的可执行文件可以直接使用
